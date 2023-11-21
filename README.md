@@ -1,4 +1,4 @@
-# mdb-ui-kit-pro-advanced-6.1.0
+# mdb-ui-kit-pro-advanced
 
 MDB UI Kit Pro Advanced adalah kumpulan komponen UI yang kuat dan responsif yang dirancang untuk memudahkan pengembangan web. Dengan fitur-fitur canggih, kit ini memungkinkan Anda untuk membuat tampilan yang menarik dan fungsional untuk proyek web Anda.
 
